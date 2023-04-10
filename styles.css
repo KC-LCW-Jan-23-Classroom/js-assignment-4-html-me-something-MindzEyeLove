@@ -23,10 +23,12 @@ h2{
 .shrink-pic {
     max-width: 75%;
     max-height: 75%;
+    box-shadow: 8px 8px 5px;
 }
 #enlarge-pic {
     max-width: 75%;
     max-height: 100%;
+    box-shadow: 7px 7px 5px rgb(199, 59, 3);
 }
 #footer {
     color: rgb(175, 71, 1);
